@@ -1,5 +1,7 @@
-  # - 👋 Hi, I’m Yuvraj-2060                           
-  ![CodeEncodingGIF](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/2372a4b4-adfc-4c76-b55b-0158c968082b)
+ # - 👋 Hi, I’m Yuvraj-2060                           
+![CodingGIF](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/db25b13d-c34f-4866-99a4-3877f62b8df8)
+
+
 
 # - 🧑‍💻 My YouTube Channel: www.youtube.com/@HandsomeCoding_By_Yuvraj
 
