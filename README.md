@@ -2,11 +2,6 @@
 ![CodingGIF](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/db25b13d-c34f-4866-99a4-3877f62b8df8)
 
 
-
-# - 🧑‍💻 My YouTube Channel: www.youtube.com/@HandsomeCoding_By_Yuvraj
-
-![New_Youtube_BAnner_Handsome Coding](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/ea908aeb-7127-449f-8f90-3b030832fa41)
-
  - 👀 Greetings, I'm Yuvraj Singh, an aspiring Software Engineer specializing in Data Structures & Algorithms, Full-stack development, and Software Development Life Cycle (SDLC).
 
  - My passion for technology 🌱 extends to competitive programming, where I thrive on solving challenges on renowned platforms such as LeetCode and HackerRank.
@@ -29,6 +24,11 @@
 # - 👽 LeetCode           : https://leetcode.com/u/Yuvraj-2060/
 # - 📩 Email              : yuvrajofficial2060@gmail.com  
 # - 📩 Alternate Email    : yuvrajthakur2060@gmail.com  
+
+
+# - 🧑‍💻 My YouTube Channel: www.youtube.com/@HandsomeCoding_By_Yuvraj
+
+![New_Youtube_BAnner_Handsome Coding](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/ea908aeb-7127-449f-8f90-3b030832fa41)
 
 
 <!---
