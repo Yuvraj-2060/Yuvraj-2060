@@ -1,4 +1,4 @@
- # - 👋 Hi, I’m Yuvraj-2060                           
+ # - 👋 Hi, I’m Yuvraj Singh                       
 ![CodingGIF](https://github.com/Yuvraj-2060/Yuvraj-2060/assets/103349788/db25b13d-c34f-4866-99a4-3877f62b8df8)
 
 
